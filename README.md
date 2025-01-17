@@ -1,22 +1,35 @@
-----WELCOME TO GEM CRUSH!!----
-A Programming Fundamental Project written in C++ by:
-Taha Mudassar 22L-6982
+# **WELCOME TO GEM CRUSH!!**  
+*A Programming Fundamental Project written in C++ by:*  
+**Taha Mudassar (22L-6982)**  
 
+---
 
-How to setup?
-Attach the provided header to the code and run it,and enjoy!
+## **How to Setup?**  
+1. Attach the provided header file to the code.  
+2. Run the program and enjoy!  
 
-How to play?
-- use the arrow keys to move the cursor
-- for swapping, first select the gem using 'enter' key
-- move the cursor and then select the gem you want to swap with using 'enter' key again
-- to score points, you have to have make combinations of either 3,4, or 5 gems
-- with 3 gems combination you can score 3 points
-- with 4 gem combination you can get a FLAMMING GEM and score 3 points
-- with an elbow gem combination you get a SPECIAL GEM!! 
-- explosion of flamming gem gives you either 6 or 9 points
-- explosion of special gem gives you 16 points!!
-- The game will end after 60 seconds
+---
 
+## **How to Play?**  
+- Use the arrow keys to move the cursor.  
+- For swapping gems:  
+  1. First, select the gem using the **`Enter`** key.  
+  2. Move the cursor to the desired position.  
+  3. Select the gem you want to swap with by pressing the **`Enter`** key again.  
+- To score points, create combinations of gems:  
+  - **3 gems combination:** Score **3 points**.  
+  - **4 gems combination:**  
+    - Score **3 points**.  
+    - Get a **FLAMING GEM**!  
+  - **Elbow gem combination:**  
+    - Get a **SPECIAL GEM**!  
+- Gem explosions:  
+  - **Flaming Gem Explosion:** Earn **6 or 9 points**.  
+  - **Special Gem Explosion:** Earn **16 points**!  
+- **Game Duration:** The game will end after **60 seconds**.  
 
-NOTE: graphics.h is needed for the program to run the game
+---
+
+### **NOTE:**  
+The game requires **graphics.h** for proper execution.  
+
